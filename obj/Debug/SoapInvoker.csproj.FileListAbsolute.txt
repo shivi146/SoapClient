@@ -1,0 +1,7 @@
+D:\shivigarg\SoapInvoker\SoapInvoker\bin\Debug\SoapInvoker.exe.config
+D:\shivigarg\SoapInvoker\SoapInvoker\bin\Debug\SoapInvoker.exe
+D:\shivigarg\SoapInvoker\SoapInvoker\bin\Debug\SoapInvoker.pdb
+D:\shivigarg\SoapInvoker\SoapInvoker\obj\Debug\SoapInvoker.csprojResolveAssemblyReference.cache
+D:\shivigarg\SoapInvoker\SoapInvoker\obj\Debug\SoapInvoker.csproj.CoreCompileInputs.cache
+D:\shivigarg\SoapInvoker\SoapInvoker\obj\Debug\SoapInvoker.exe
+D:\shivigarg\SoapInvoker\SoapInvoker\obj\Debug\SoapInvoker.pdb
